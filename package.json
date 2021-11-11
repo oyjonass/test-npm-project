@@ -1,0 +1,22 @@
+{
+  "name": "@oyjonass/simple-test-npm",
+  "version": "1.0.0",
+  "description": "Just a simple test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyjonass/test-npm-project.git"
+  },
+  "keywords": [
+    "simple-test-npm-package"
+  ],
+  "author": "Øyvind Jonassen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyjonass/test-npm-project/issues"
+  },
+  "homepage": "https://github.com/oyjonass/test-npm-project#readme"
+}
